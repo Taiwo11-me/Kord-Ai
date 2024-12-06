@@ -1,9 +1,9 @@
 global.settings = {
-    OWNER_NUMBERS: "2347013159244", // replace with your number
-    OWNER_NAME: 'Miracle', // desired name
+    OWNER_NUMBERS: "2348077636701", // replace with your number
+    OWNER_NAME: 'Sodish Int', // desired name
     BOT_NAME: "KORD", // desired name
     VERSION: 'V1.0.0',
-    SESSION_ID: '', //put your session id between ''
+    SESSION_ID: 'kord_ai-6752a07a32154d884b2bfc4c', //put your session id between ''
     MONGO_DB_URL: 'mongodb+srv://miracle32669:Iyanu1234@cluster0.m7glm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     WORK_MODE: "Public",
     TIME_ZONE: "Africa/Lagos",
